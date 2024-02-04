@@ -1,4 +1,4 @@
-package LetCode;
+package com.algorithm.LetCode;
 
 public class Let1806 {
 
@@ -6,9 +6,10 @@ public class Let1806 {
         int pos = 0;
         for (int i = 0; i <n ; i++) {
             if(i%2==0)pos = n/2;
-            pos =
+
         }
 
+        return 1;
     }
 
 }
